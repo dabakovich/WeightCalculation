@@ -78,6 +78,7 @@ public class Equation {
 
         return equation.substring(temp, k);
     }
+
     void fillAdmixture(int count){
         float admixturePercent = 100;
         int temp1 = 0, temp2 = 0, temp3 = 0;
@@ -115,6 +116,7 @@ public class Equation {
             molecules.get(temp3 - 1).moleculeAtoms.get(temp2 - 1).atomAmount *= (1 - admixturePercent);
         }
     }
+
     void calculateMasses(){
         int temp1 = 0;
         System.out.print("Enter weight, please: ");
