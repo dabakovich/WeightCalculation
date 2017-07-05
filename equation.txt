@@ -1,0 +1,5 @@
+2MgO + Ga2O3 = 2MgGa2O4(2g)
+admixtures=Ga:Eu(2%)
+
+0.96MgO+0.04ZnO+0.98Ga2O3+0.02Eu2O3=Mg0.96Zn0.04Ga1.96Eu0.04O4
+MgO:ZnO(4%) + Ga2O3:Eu2O3(2%) = Mg:ZnGa2:Eu2O4
